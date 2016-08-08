@@ -1,0 +1,14 @@
+layout_spectrum: 0.2663057988975197
+typography_spectrum: 0.3832610191311687
+color:
+  brandStrength: 0.1610057249199599
+  lightness: 0.8540097749792039
+  saturation: 0.7347127988468856
+  rhythmicContrast: 0.06874684011563659
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: '::echocentral::'
